@@ -35,7 +35,7 @@
 						  borderRadius: 10,
 						  top: 0,
 						  height:1000,
-						  width: 500
+						  width: 'auto'
 					});
 					
 					

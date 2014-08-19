@@ -1,0 +1,16 @@
+".container": {
+	backgroundColor:"white"
+},
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000"
+}, 
+
+"#tableViewAcademica":{
+	borderRadios:10,
+    backgroundColor:'white',
+    top:2,
+    width:"auto", 
+    height:442
+}
